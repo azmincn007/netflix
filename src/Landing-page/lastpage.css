@@ -1,0 +1,71 @@
+.MainLast{
+    background-color: rgb(0, 0, 0);
+    width: 100%;
+    color: white;
+    text-align: center;
+}
+.contentsgrid  .contents-box{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+    width: 100%;
+   
+}
+
+.contentsgrid p{
+    font-size: 25px;
+    font-weight: 400;
+    display: flex;
+    align-items: center;
+}
+.contents-box .iconn{
+    width: 50px;
+    height: 50px;
+}
+
+
+
+.txt-but-flex button{
+    background-color: red;
+    width: 250px;
+    height: 50px;
+    outline: none;
+    border-radius: 4px;
+    font-size: 17px;
+    color: white;
+    border: none;
+    
+}
+.txt-but-flex input{
+    width: 350px;
+    height: 50px;
+    margin-right: 10px;
+    background: transparent;
+    border: 1px solid grey;
+    border-radius:4px ;
+    
+}
+
+.button-included-grid p{
+    padding: 15px 0px;
+}
+
+.headding{
+    font-weight: 900;
+    font-size: 25px;
+    padding: 25px 0px 15px 0px;
+}
+
+.button-included-grid{
+    padding: 10px 0px 15px 0px;
+}
+
+.contents-box .data{
+    width: 80%;
+    display:flex ;
+    justify-content: space-between;
+    background-color: rgb(45, 45, 45);
+    padding: 15px;
+
+}
+
